@@ -1,4 +1,4 @@
-<h1 align="center"> game-which-watermelon </h1>
+<h1 align="center"> seat control </h1>
  
  
  
@@ -13,17 +13,15 @@
  
  ## How to use this algorithm?
 
-1. Add players and values in (GM)
-     + Add players and stake amounts for each player and click "Add"
-2. Select watermelon weight
-     + Ask someone who didn't bet to choose the weight of the watermelon to be said the champion
-3. remove game
-     + To restart the game just select "Restart" to restart the game
+1. select place
+     + Choose the available location to save your location, just see the seat number and type in the input above
+2. confirm seat
+     + By clicking "Confirm" you will keep your seat permanently
 
 
 ## What does this algorithm consist of?
 
-Let's talk a little about this program, basically this program was developed for some javascript exercises but even so it doesn't take away the merit of having been developed with love. The best thing about this game and the simple reason you don't lose bets, what do you mean? , When you add the bets they are saved in your browser so if you reload or something happens that will make the person exit the program it will be saved so the game doesn't end when you restart
+This program was made for places with large audiences such as theaters, cinemas and even operas. It will help the customer save their seat for the show.
 
 ## Technologies used
 
