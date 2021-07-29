@@ -3,7 +3,7 @@
  
  
  <p align="center"> 
- <img width="460" height="300" src="img/assets/gifgame.gif">
+ <img width="460" height="300" src="img/assets/gifteatro.gif">
  </p>
  
  
